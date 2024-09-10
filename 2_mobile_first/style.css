@@ -1,0 +1,23 @@
+h1{
+    color: black;
+}
+@media (min-width:576pX){
+    h1{
+        color: blue;
+    }
+}
+@media (min-width:768pX){
+    h1{
+        color: red;
+    }
+}
+@media (min-width:992pX){
+    h1{
+        color: greenyellow;
+    }
+}
+@media (min-width:1200pX){
+    h1{
+        color: violet;
+    }
+}
